@@ -5,77 +5,61 @@ After nearly a decade leading teams in high‑pressure kitchens across Japan and
 
 What changed was the tools — not the mindset. Today, I work with code, networks, and systems, always focused on building practical, reliable solutions.
 
-🧠 About Me
+    🧠 About Me
 
-    🎯 Career switcher with strong leadership and real‑world problem‑solving experience
+        🎯 Career switcher with strong leadership and real‑world problem‑solving experience
+        
+        🌏 International work experience (Japan 🇯🇵 & Australia 🇦🇺)
+        
+        🧩 Known for placing the right pieces in the right spots
+        
+        💬 Strong communicator with a customer‑first mindset
+        
+        🏷️ Personal motto: "Never too old to follow your dreams"
+        
+
+    🛠️ Tech Stack & Skills
+
+            Languages & Scripting
     
-    🌏 International work experience (Japan 🇯🇵 & Australia 🇦🇺)
+                JavaScript / SQL / HTML / CSS / C#
     
-    🧩 Known for placing the right pieces in the right spots
+            Backend & Databases
     
-    💬 Strong communicator with a customer‑first mindset
+                Node.js / Express.js / MongoDB / MySQL (Northwind, relational data)
     
-    🏷️ Personal motto: "Never too old to follow your dreams"
+            Networking & Systems
 
-🛠️ Tech Stack & Skills
+                SOHO network setup / Installing & testing network protocols / Basic routing & switching (Packet Tracer)
+                Active Directory fundamentals / Secure network configuration
 
-Languages & Scripting
+            Tools & Platforms
 
-JavaScript
+                Git & GitHub
 
-SQL
+                Visual Studio / VS Code
 
-HTML / CSS
+                Windows & macOS & Linux (Ubuntu Server)
+                
 
-Basic C#
-
-Backend & Databases
-
-Node.js
-
-Express.js
-
-MongoDB
-
-MySQL (Northwind, relational data)
-
-Networking & Systems
-
-SOHO network setup
-
-Installing & testing network protocols
-
-Basic routing & switching (Packet Tracer)
-
-Active Directory fundamentals
-
-Secure network configuration
-
-Tools & Platforms
-
-Git & GitHub
-
-Visual Studio / VS Code
-
-Windows & macOS
-
-📂 What You’ll Find Here
-
-🔧 Practical projects focused on real‑world use cases
-
-🌐 Backend apps using Node.js & databases
-
-🧪 Learning projects from TAFE & self‑study
-
-📘 Clean, well‑documented repositories
-
-🚀 Currently Learning
-
-Advanced JavaScript & backend patterns
-
-Networking & infrastructure fundamentals
-
-Writing cleaner, more maintainable code
+    📂 What You’ll Find Here
+    
+        🔧 Practical projects focused on real‑world use cases
+        
+        🌐 Backend apps using Node.js & databases
+        
+        🧪 Learning projects from TAFE & self‑study
+        
+        📘 Clean, well‑documented repositories
+        
+        
+    🚀 Currently Learning
+    
+        Advanced JavaScript & backend patterns
+        
+        Networking & infrastructure fundamentals
+        
+        Writing cleaner, more maintainable code
 
 🤝 Let’s Connect
 
