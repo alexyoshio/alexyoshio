@@ -7,15 +7,15 @@ What changed was the tools — not the mindset. Today, I work with code, network
 
 🧠 About Me
 
-🎯 Career switcher with strong leadership and real‑world problem‑solving experience
-
-🌏 International work experience (Japan 🇯🇵 & Australia 🇦🇺)
-
-🧩 Known for placing the right pieces in the right spots
-
-💬 Strong communicator with a customer‑first mindset
-
-🏷️ Personal motto: "Never too old to follow your dreams"
+    🎯 Career switcher with strong leadership and real‑world problem‑solving experience
+    
+    🌏 International work experience (Japan 🇯🇵 & Australia 🇦🇺)
+    
+    🧩 Known for placing the right pieces in the right spots
+    
+    💬 Strong communicator with a customer‑first mindset
+    
+    🏷️ Personal motto: "Never too old to follow your dreams"
 
 🛠️ Tech Stack & Skills
 
