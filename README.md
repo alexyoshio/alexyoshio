@@ -31,7 +31,7 @@ What changed was the tools — not the mindset. Today, I work with code, network
             Networking & Systems
 
                 SOHO network setup / Installing & testing network protocols / Basic routing & switching (Packet Tracer)
-                Active Directory fundamentals / Secure network configuration
+                Active Directory fundamentals / Secure network configuration / AWS (Lambda Functions /  API Gateway / RDS Database)
 
             Tools & Platforms
 
